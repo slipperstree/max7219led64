@@ -19,5 +19,3 @@ https://github.com/slipperstree/max7219led64
 
 ![image](https://github.com/slipperstree/max7219led64/blob/master/sample.png)  
 
-## API
-TODO
